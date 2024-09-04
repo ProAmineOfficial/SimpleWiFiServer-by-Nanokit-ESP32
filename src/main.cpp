@@ -19,6 +19,9 @@
 
  Created for NanoKit ESP32 of T.U.M [Pro_Amine IC] 09 Sep 2024
  by Amine Saoud
+ ## Additional Resources
+
+ For more information, visit [Pro Amine Tech](https://proamine.tech/).
 */
 
 #include <WiFi.h>
