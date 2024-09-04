@@ -36,11 +36,4 @@ For more information, visit [Pro Amine Tech](https://proamine.tech/).
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
- This project demonstrates how to create a web server on an ESP32 development board that allows users to control an LED connected to GPIO pin 33. The project is set up using PlatformIO with the Arduino framework. Once connected to a WiFi network, the ESP32 hosts a web page that lets users turn the LED on and off by navigating to specific URLs.
-
-Key Features:
-
-Simple web server implementation.
-Control an LED via HTTP requests.
-Compatible with the NanoKit ESP32 [Pro_Amine IC] board.
-This repository is perfect for beginners looking to explore IoT projects with ESP32 and PlatformIO. 
+ 
