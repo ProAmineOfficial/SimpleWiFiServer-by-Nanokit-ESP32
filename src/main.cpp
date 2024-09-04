@@ -26,8 +26,8 @@
 
 #include <WiFi.h>
 
-const char* ssid     = "Bbox-BE5F1353";
-const char* password = "NNk9WTYgPc31rF4456g";
+const char* ssid     = "yourssid";
+const char* password = "yourpasswd";
 
 WiFiServer server(80);
 
